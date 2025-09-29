@@ -1,0 +1,8 @@
+While reviewing the documentation, I noticed that the staking setup section could benefit from a step-by-step example. Currently, the instructions mention running the command but don’t provide sample output or common troubleshooting tips.
+
+Suggestions:
+	•	Add a short example of the expected output after running the staking command.
+	•	Include a note on common errors and how to resolve them.
+	•	Optionally, link to external resources for users new to staking.
+
+I’d be happy to help draft the additions if useful.
